@@ -1,3 +1,11 @@
 computer:
   cpu:
     cores: 8
+    speed: 3.2
+  Memory:
+    type: DDR4
+    size: 16GB
+  Disk:
+    type: SSD
+    capacity: 512GB
+
