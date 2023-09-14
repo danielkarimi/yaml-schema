@@ -1,10 +1,8 @@
 person:
   name:
     first_name: Stig
-    last_name: Faburay
-    age: 30
-    class: Java
+    last_name: Larr
+    age: "30"
     start_year: 2022
-    hobbies:
-      - Football
-      - Tv
+    hobbies: "Football"
+
