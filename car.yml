@@ -3,6 +3,6 @@ car:
   model: xc90
   year: "2023"
   attributes:
-    color: red
-    fuel: gasoline
+    - red
+    - gasoline
   reg: "abc123"
