@@ -1,11 +1,13 @@
-computer:
-  cpu:
-    cores: 8
-    speed: 3.2
+Computer:
+  CPU:
+    manufacturer: Intel
+    frequency: 3.2GHz
   Memory:
-    type: DDR4
+    manufacturer: Kingston
     size: 16GB
   Disk:
-    type: SSD
-    capacity: 512GB
+    Type: SSD
+    Capacity: 512GB
+
+
 
