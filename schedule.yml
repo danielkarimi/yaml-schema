@@ -3,9 +3,9 @@ schedule:
   program: java
   lessons:
     - date: "2022-02-01"
-    - description: "lesson20"
+      description: "lesson20"
     - date: "2023-04-20"
-    - description: "lesson50"
+      description: "lesson50"
 
 
 
