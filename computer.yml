@@ -1,15 +1,15 @@
 Computer:
   cpu:
-    manufacturer: Intel
-    cores: 4
-    frequency: 3.2GHz
+    - manufacturer: Intel
+    - cores: 4
+    - frequency: 3.2GHz
   memory:
-    manufacturer: Kingston
-    size: 16GB
-    type: DDR4
+    - manufacturer: Kingston
+    - size: 16GB
+    - type: DDR4
   disk:
-    type: SSD
-    capacity: 512GB
+    - type: SSD
+    - capacity: 512GB
 
 
 
