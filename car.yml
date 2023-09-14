@@ -1,2 +1,8 @@
 car:
   manufacturer: volvo
+  model: xc90
+  year: "2023"
+  attributes:
+    color: red
+    fuel: gasoline
+  reg: "abc123"
