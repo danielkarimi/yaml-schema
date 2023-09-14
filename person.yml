@@ -5,4 +5,6 @@ person:
     age: 30
     class: Java
     start_year: 2022
-    hobbies: Football
+    hobbies:
+      - Football
+      - Tv
