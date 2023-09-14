@@ -8,8 +8,8 @@ Computer:
     size: 16
     type: DDR4
   disk:
-    manufacturer: Intel
-    size: 50
+    manufacturer: Samsung
+    size: 512
     type: SSD
 
 
