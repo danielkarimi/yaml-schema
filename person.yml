@@ -2,7 +2,8 @@ person:
   name:
     first_name: Stig
     last_name: Larr
-    age: "30"
+    age:
+      number: 30
     start_year: 2022
     hobbies: "Football"
 
